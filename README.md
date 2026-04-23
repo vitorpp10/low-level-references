@@ -57,6 +57,7 @@ References for low level programming. Feel free to [create a PR](https://github.
 ## C/C++ Guides and recommendations
 
 * [**C/C++ Brasil**](https://github.com/cppbrasil/material-de-aprendizado)
+* https://xumaquer.github.io/mdbook-linguagem-c/
 * [**Learning to Program with Haiku**](https://www.haiku-os.org/development/learning_to_program_with_haiku)
 
 
